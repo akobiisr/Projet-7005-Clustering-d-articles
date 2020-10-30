@@ -1,0 +1,2000 @@
+﻿---------------------
+
+0
+6112
+peuvent, vont, doivent, viennent, retrouvent, devraient, trouvent, sont, demandent, voient, font, passent, veulent, parviennent, continuent, pourront, semblent, prennent, reconnaissent, arrivent, 
+---------------------
+
+1
+18562
+donc, surtout, alors, même, autant, aussi, mais, tout, fait, pourtant, cependant, effectivement, évidemment, certainement, toujours, encore, juste, néanmoins, justement, semble-t-il, 
+---------------------
+
+2
+5862
+trois, quatre, deux, cinq, six, huit, douze, dix, treize, quinze, sept, onze, vingt, plusieurs, quatres, quatorze, dix-huit, seize, vingt-deux, vingt-cinq, 
+---------------------
+
+3
+11044
+plus, moins, assez, peu, trop, encore, suffisamment, très, nettement, relativement, beaucoup, tellement, extrêmement, étonnamment, particulièrement, toujours, plsu, guère, autant, aussi, 
+---------------------
+
+4
+165
+sq, sq., ft, mq, sqm, sqq, b-c, sq.m, sqq., mtrs, Kč, ft2, Sq, sqft, sq.m., sq.ft., sv, m2, m., nm., 
+---------------------
+
+5
+2016
+audrey, julie, emeline, delphine, stéphanie, christel, joana, solène, josée, emilie, laurence, patricia, sabrina, cathy, justine, alexandra, christine, lucille, mélanie, meline, 
+---------------------
+Local
+6
+5524
+québec, canada, québec., montréal, quebec, Québec, saguenay, montreal, Québec., quebec., canada., chicoutimi, gaspésie, ontario, montréal., rimouski, québecois, Quebec, Canada, longueuil, 
+---------------------
+
+7
+7927
+martineau, bernier, duhamel, dubourg, girard, dufresne, giraud, simard, roussel, dupuy, blain, guillou, tessier, guillemin, lemay, vachon, paquin, savard, perrot, blanchard, 
+---------------------
+
+8
+2324
+ans, ans., ans.3, ans.5, vingt, 10ans, ans.4, ans.2, ans.C, 15ans, quinze, trente, quarante, ans.Alors, ans.Mais, 5ans, 30ans, ans.D, ans.Tout, dix-huit, 
+---------------------
+
+9
+66
+brp, skf, dtr, ltz, crv, tdr, smx, nsx, nsu, hrd, 4fl, rsx, awc, sdi, st6, trv, ccr, wrx, apx, smr, 
+---------------------
+
+10
+1507
+veut, prend, voudrait, voit, décide, tient, sait, parle, croit, revient, reconnait, retient, arrive, ramène, retire, entend, refuse, perd, réclame, reconnaît, 
+---------------------
+
+11
+3468
+quand, parce, dire, mais, que, alors, surtout, pense, car, sinon, même, crois, justement, sais, Mais, Surtout, dis, puisque, tout, pourquoi, 
+---------------------
+Course
+12
+173
+km, Km, km6, km.-, Km., km4, 92km, 40Km, klms, km-, km., 96km, 45Km, km.Il, 61km, km12, 95km, kmde, 20Km, kM, 
+---------------------
+
+13
+2160
+jardin, mur, pavillon, salon, coin, bâtiment, promontoir, château, pont, porche, sous-sol, hangar, balcon, parc, cabanon, couloir, manoir, patio, ponton, toit, 
+---------------------
+
+14
+8232
+une, réelle, certaine, importante, raison, toute, cette, seule, grande, façon, telle, cause, manière, idée, perspective, première, nouvelle, dimension, différence, pareille, 
+---------------------
+
+15
+3452
+semaine, année, dernière, journée, fin, période, première, soirée, début, cette, prochaine, matinée, saison, fois, durant, décennie, quinzaine, seconde, semaines, deuxième, 
+---------------------
+
+16
+9947
+importante, une, cette, organisation, perspective, politique, proposition, réelle, globale, stratégie, démarche, celle-ci, conception, intervention, façon, situation, toute, nouvelle, structure, fondamentale, 
+---------------------
+
+17
+26
+ul, li, <, br, /, >, DU, AU, █, 11, 12, 08, 06, 03, 07, , 09, ., 14, 17, 
+---------------------
+
+18
+453
+va, Va, Ca, dû, Ça, pu, a, ça, và, ca, Et, c', peuit, oeut, pû, su, va.Il, .Va, doît, poeut, 
+---------------------
+Nature
+19
+468
+lac, Lac, lacs, étang, rivière, lac., lago, Tjörnin, -Lac, Raviège, Lake, ruisseau, fleuve, Moéris, lake, Léman, Pukaki, Oahe, Bâlea, Grand-Lac, 
+---------------------
+Religion
+20
+598
+église, paroissiale, chapelle, paroisse, Eglise, cathédrale, église.La, églises, basilique, Église, Èglise, église.Le, église., ex-église, église.L', presbytère, èglise, église-cathédrale, abbatiale, sacristie, 
+---------------------
+
+21
+531
+vie, Vie, vie.La, vie., quotidienne, vies, vie.Mais, vie.De, vie.Ce, vie.Une, vie.C, vie.C', vie.Ma, vie.À, vie.Oui, vivre, vie.Dans, vie.Elle, vie.Pour, vie.Cette, 
+---------------------
+Actualité
+22
+1270
+mars, avril, juin, mai, février, octobre, septembre, juillet, novembre, août, janvier, décembre, 2016, 2015, 2014, 2013, 2012, 2011, 2017, 2010, 
+---------------------
+
+23
+239
+feu, Feu, feux, feu., feu.Le, brasier, feu.La, feu.-, feu.Un, feu.Il, flammes, feu.C', flamme, feu.Et, feu.Les, artifice, carbonisant, brûle, allumé, dartifice, 
+---------------------
+
+24
+125
+r, �, u, iqu, é, xe9, .u, xe8, rA, v, xC3ur, yf, cr, re, xC3a, eD, ulc, xC3u, xFB, êm, 
+---------------------
+Actualité
+25
+2831
+octobre, septembre, novembre, mars, février, avril, juin, janvier, décembre, juillet, mai, août, jeudi, vendredi, mardi, mercredi, lundi, samedi, aout, 2015, 
+---------------------
+
+26
+218
+mrc, slv, caq, rpd, avnce, plq, mtl, mrci, ksk, Mrc, plzz, alr, aln, trv, G5R, ccr, slvp, lrd, cld, mci, 
+---------------------
+
+27
+6
+cp, Cp, CP, chEBI, cp-ce1, 1cp, NbPLC, ddm, wdpa, cq, 〒, 01109, 95633, Yp, populationM, 95637, 78591, 0728, amoa, J7V, 
+---------------------
+
+28
+468
+eau, eau., eau.Mais, eau.L, eauet, potable, Eau, eau.De, eau.Et, eau.Une, eau.Au, eau.A, eauL, eau.1, eau.Elle, eau.L', eau.Il, eau.Pour, eau.La, eau.2, 
+---------------------
+Sport
+29
+1836
+match, matchs, matches, matche, match., match.Le, match.-, match.Il, match-retour, match.En, matchs-là, match-, match.Je, matchs., match-là, match.La, match-aller, match.Pour, championnat, tournoi, 
+---------------------
+
+30
+565
+points, poins, verges, mètres, demi-points, centimètres, 4points, carrés, kilomètres, points., despoints, 3points, passes, milles, 6points, 7points, miles, demi-coups, équidistants, degrés, 
+---------------------
+
+31
+1372
+jeunes, femmes, filles, hommes, garçons, enfants, fillettes, adolescents, adolescentes, âgées, adultes, gens, jeunes-filles, seniors, fillles, personnes, mamans, -femmes, ados, lesjeunes, 
+---------------------
+
+32
+67
+us, Us, us., attw, plau, US, uk, Kâ', toy', it, to, Camp', up., UEAbout, is', letting, is., gl, us-, allowing, 
+---------------------
+
+33
+11195
+faire, amener, passer, prendre, commencer, essayer, penser, permettre, tenter, laisser, donner, finir, continuer, chercher, revenir, rentrer, retrouver, demander, sortir, forcer, 
+---------------------
+
+34
+77
+@, OuPs, afpfr, p45, 00info, rco123, pt.lu, jlb, is62, sls0, cath44, RMCinfo, ffmad, rco, Gabynou, DBLG, FBLR, M2k, aol.fr, H7C, 
+---------------------
+
+35
+397
+où, Là, oû, là, il, Où, oú, on, y, ,, si, Si, On, Et, je, qu, òu, n', Il, et, 
+---------------------
+Parcs
+36
+414
+parc, Parc, parc.Le, parcs, parc., -Parc, mini-parc, parc-, parc.Il, parc-jardin, parc.La, parc.L', parc.A, parc-musée, zoo, park, château, parc.Je, parc.En, parc-nature, 
+---------------------
+
+37
+9361
+des, les, différents, certains, professionnels, ces, locaux, services, autres, nombreux, importants, publics, politiques, communautaires, socio-organisationnels, évéments, commerciaux, gens, industriels, personnels, 
+---------------------
+
+38
+253
+•, ·, ○, ●, , , , ■, ۰, , Ṗṗ, Iı, Àà, ‏, Ṁṁ, , ٠, , Ọọ, , 
+---------------------
+Local
+39
+2187
+ville, capitale, région, bourgade, banlieue, Ville, périphérie, centre-ville, villes, quartier, province, localité, agglomération, ville.Une, ville.La, ville.À, ville., centre, ville.De, municipalité, 
+---------------------
+Championnats
+40
+3695
+championnat, championnats, compétition, tournoi, compétitions, champion, olympique, champions, athlètes, non-olympique, athlétisme, sport, football, course, marathon, Championnat, sprint, triathlon, sportif, championnant, 
+---------------------
+
+41
+68
+pu, pû, su, dû, eu, ai, vu, sû, a, dù, va, pù, j', as, tardé, n', y, eû, failli, pût, 
+---------------------
+
+42
+96
+sto, tè, rri, ghe, cua, sò, sè, mo, dò, më, tá, sé, nê, rro, vèr, vè, tew, chy, ruc, pò, 
+---------------------
+
+43
+266
+sainte, Sainte, saint, sainte., Ste, saints, bienheureuse, saint., pape, .Sainte, saintes, Vierge, ste, très-sainte, saincte, Très-Sainte, Vierge., martyre, dévotion, saint-père, 
+---------------------
+
+44
+276
+là, Là, çà, Et, c', ça, où, Çà, là.C', là.De, là.Mais, là.On, là.Il, si, là.Le, là.C, là.Et, là., je, c, 
+---------------------
+Local
+45
+936
+ottawa, uottawa, dOttawa, ottawa.ca, ontario, toronto, mcgill, rimouski, Ottawa, sherbrooke, québec, uottawa.ca, saguenay, québec., longueuil, uqam, chicoutimi, lOntario, Ottawa., gatineau, 
+---------------------
+
+46
+597
+selon, dont, Selon, puisque, que, même, laquelle, indépendamment, lequel, avec, mais, Ainsi, car, lesquelles, Sachant, parce, sachant, alors, lorsque, comme, 
+---------------------
+
+47
+10340
+michel, philippe, claude, nicolas, laurent, eric, franck, christophe, alain, andrée, mathieu, patrick, girard, stéphane, bernard, bernier, gérald, phillipe, marcelle, jean-françois, 
+---------------------
+Politique municipale
+48
+1326
+maire, Maire, maires, député-maire, maire-adjoint, élus, municipal, édile, sénateur-maire, ex-maire, mairie, député, députée-maire, sous-préfet, maire., Sénateur-maire, élu, Sénateur-Maire, Député-Maire, Député-maire, 
+---------------------
+
+49
+984
+jean, jean., jean-, jeans, marcel, monnet, jardinbleu1107, blue-jean, claude, jacques, yanne, pantalon, marc, jeane, denim, jacque, Jean, jean', gillet, jehan, 
+---------------------
+Justice
+50
+398
+loi, Loi, législation, lois, promulgation, loi-cadre, LOI, loi.La, -loi, réforme, réglementation, promulguée, Constitution, loi-là, loi.Ce, décret, règlementation, loi.A, constitution, LOPPSI2, 
+---------------------
+
+51
+41
+er, pu', ier, Que', cr, du1, Br', au1, 1er, 1, Pu', nd, au1er, èm, er., er1, iè, 1e, du19, 1èr, 
+---------------------
+Politique
+52
+115
+pq, pk, pkoi, Pcq, prq, uqe, qh, Pq, qd, aV, pO, cmt, pke, prk, p-t, pcq, kk, dc, cq, yb, 
+---------------------
+
+53
+24
+x, y,, xH, xC, -3x, y,t, 4y, x., ⁡, ⩽, 0y, yf, xE, 6y, cm, 3y, -6x, λf, λx, ⁢, 
+---------------------
+
+54
+351
+jour, lendemain, matin, tôt, tard, mois, jour.Et, jour.Mais, soir, jours, jour., jour.Un, jour.À, semaine, chaque, dernier, jouret, jour.C, jour.Depuis, jour.Dans, 
+---------------------
+
+55
+427
+mme, madame, prsident, lle, srieuse, mrite, dpart, mmes, prsence, dclaration, srieux, Prsident, collge, prsenter, plutt, madame., peut-tre, gnrale, emie, madamme, 
+---------------------
+
+56
+3118
+fleurs, paillets, roses, bébettes, feutrines, grillettes, plantes, platiques, pailleuses, piquettes, coquillages, baquettes, caboches, blanches, métalliques, rouges, feuillles, liquettes, arbres, portes-manteaux, 
+---------------------
+
+57
+5435
+quelques, plusieurs, trois, deux, ces, cinq, quatre, les, dizaines, dix, six, semaines, dizaine, huit, quinze, derniers, nombreuses, dernières, jours, vingt, 
+---------------------
+
+58
+925
+voulez, allez, devriez, voyez, demandez, savez, venez, pouvez, pensez, tenez, croyez, prenez, permettez, rappelez, montrez, rassurez, souhaitez, doutez, allons, pouvons, 
+---------------------
+Lieu
+59
+575
+nord, sud, ouest, sud-ouest, sud-est, nord-est, nord-ouest, Nord-Est, Nord-est, Nord, Sud, Nord-Ouest, Nord-ouest, nord-Est, sud-Est, nord-Ouest, Sud-ouest, Sud-Est, sud-Ouest, Ouest, 
+---------------------
+
+60
+6628
+revient, amène, prend, voit, veut, retrouve, reconnaît, rappelle, parle, évoque, tient, retient, reconnait, arrive, donne, ramène, considère, réclame, trouve, surprend, 
+---------------------
+
+61
+174
+quot, target, eacute, raquo, endl, x000A, hplink, laquo, gt, -msgstr, amp, foo, attrs, xE9, lsquo, Ccedil, lt, targets, nbsp, .val, 
+---------------------
+Routes & Circulation
+62
+538
+rue, avenue, Rue, boulevard, ruelle, lavenue, Avenue, Boulevard, grande-rue, faubourg, -rue, avenue5, Faubourg, Faubourg-Saint-Jacques, Grande-rue, Grande-Chaussée, Barillerie, square, Impasse, Surène, 
+---------------------
+
+63
+26
+px, 21px, 26px, 160px, 27px, 450px, 190px, 22px, 150px, 125px, 750px, 700px, 640px, hz, 225px, pxl, 540px, 100px, 25px, 80px, 
+---------------------
+
+64
+24
+jo, Lo', Jo, wre, zecat, eli, ju, joe, tya, èi, kee, jos, bo', sé, anw, sô, koze, Apid', iqu, gi, 
+---------------------
+
+65
+2993
+être, avoir, peut, doit, étre, etre, êtree, été, ètre, bien, toujours, sembler, pas, réellement, aussi, devrait, véritablement, effectivement, forcément, étant, 
+---------------------
+
+66
+263
+état, etat, état., Etat, tat, piteux, délabrement, esprit, étatd', états, état.Il, avancement, -état, état.Le, État, étatd, étatEn, étatEtat, état.A, état.L', 
+---------------------
+
+67
+4312
+fait, faire, faisant, font, fais, faisait, fasse, ferait, fera, remarquer, faisaient, doit, peut, semble, faites, tout, faite, donc, fassent, effectivement, 
+---------------------
+
+68
+155
+vol, vols, décollage, avion, Vol, décolage, plané, voler, vol-, atterrissage, attérrissage, avion.Le, 4U9525, planés, volLe, atterrisage, décollages, vol.Le, planeur, aterrissage, 
+---------------------
+
+69
+352
+fin, début, Fin, période, mi-juillet, mai-début, année, mi-novembre, mi-juin, Début, mi-février, mi-janvier, mi-mai, 2015-début, durant, mi-avril, avant, septembre-début, au-début, dernière, 
+---------------------
+
+70
+455
+vers, versle, versl, versl', orientant, versla, rediriger, versles, Vers, pointant, tourner, jusque, oriente, orienter, redirigeant, amenant, menant, lentement, sur, tournons, 
+---------------------
+Internationnal
+71
+2253
+france, europe, italie, espagne, russie, afrique, ukraine, allemagne, australie, brésil, mexique, etats-unis, canada, afrique., italie., amérique, roumanie, bulgarie, bruxelle, chine, 
+---------------------
+
+72
+96
+g, gr, kg, g250, g., g-1, Kg, g-, g100, g.-, kg2, meq, lb, kj, kg1, kG, kg., s-2, mg, 41g, 
+---------------------
+Éducation
+73
+783
+école, écoles, Ecole, École, ecole, ex-école, école.La, collège, maternelle, école.L', université, -école, académie, élèves, école.Elle, lʼécole, école.Le, uneécole, primaire, école.Et, 
+---------------------
+
+74
+263
+span, div, strong, blockquote, h2, fieldset, MsoNormal, br, <, like-h4, postbody, BLOCKQUOTE, tbody, p, 0.36px, h3, autobr, nikefree214.webnode.fr, class, .forabg, 
+---------------------
+Famille
+75
+808
+père, frère, fils, neveu, beau-père, petit-fils, oncle, grand-père, aîné, beau-frère, demi-frère, ainé, adoptif, cousin, mari, papa, mère, gendre, beau-fils, copain, 
+---------------------
+
+76
+2765
+white, blue, raging, wolrd, red, balck, hatchet, nigth, claws, wailing, lined, hells, muddy, firts, watery, planks, fiend, winged, dashing, crook, 
+---------------------
+
+77
+145
+li, ul, br, Ĉu, 理, ŝi, <, rèv, lî, Le', khal9ek, >, levr, bjn, rî, vî, p-cactions, rri, esl8, , 
+---------------------
+
+78
+5336
+plus, encore, peu, toujours, moins, assez, autant, aussi, pas, bien, pourtant, tellement, donc, beaucoup, certainement, suffisamment, trop, forcément, vraiment, réellement, 
+---------------------
+Art
+79
+169
+art, Art, contemporain, arts, artArt, artL, balgo, artisanat, art-contemporain, non-art, art-, artL', artet, Moz', artiste, art1, pictural, sculpture, art.Pour, expressionisme, 
+---------------------
+
+80
+3309
+deuxième, troisième, première, quatrième, cinquième, dernière, sixième, seconde, huitième, cette, premier, neuvième, dernier, dixième, onzième, consécutive, une, quinzième, douzième, avant-dernière, 
+---------------------
+
+81
+356
+afin, Afin, permettre, permettant, permette, puissent, puissions, assurer, Souhaitant, pour, puisse, puissiez, permettra, garantir, afinde, permettront, permet, afind', permettent, essayant, 
+---------------------
+
+82
+1686
+grande, belle, bonne, petite, une, grosse, toute, seule, cette, jolie, vraie, nouvelle, certaine, excellente, première, mauvaise, merveilleuse, meilleure, telle, pleine, 
+---------------------
+
+83
+10242
+donc, autant, encore, toujours, surtout, aussi, même, pourtant, tout, pas, certainement, effectivement, alors, évidemment, bien, juste, cependant, forcément, mais, néanmoins, 
+---------------------
+Politique
+84
+573
+député, sénateur, députés, députée, Député, parlementaire, sénateurs, Sénateur, parlement, députéEs, Sénat, sénatrice, sénat, Députés, députe, Parlement, deputé, parlementaires, ministre, euro-député, 
+---------------------
+Local
+85
+886
+région, ville, zone, province, régions, Région, capitale, périphérie, côte, region, sud-centrale, montagneuse, péninsule, nord, régionde, plaine, côtière, localité, frontalière, sud, 
+---------------------
+
+86
+1861
+fille, femme, jeune, mère, fillette, maman, soeur, nièce, sœur, dame, amie, cousine, veuve, demoiselle, fiancée, copine, belle-fille, compagne, jeune-femme, épouse, 
+---------------------
+
+87
+416
+côté, coté, autre, derrière, passage, aspect, juste, coté-ci, dessus, arrière, côtés, côté-ci, côté-là, coin, opposé, face, extrémité, -côté, part, côté.Un, 
+---------------------
+Routes & Circulation
+88
+2586
+véhicule, camion, voiture, véhicules, camion-remorque, autobus, voitures, chauffeur, taxi, camions, bateau, remorqueuse, camionnette, avion, engin, volant, bus, minibus, routier, automobile, 
+---------------------
+
+89
+28
+of, Of, the, and, in, ofthe, to, for, my, de, is, In, by, At, with, DE, zu, For, du, To, 
+---------------------
+Santé
+90
+769
+santé, santés, santé5, santéet, santé., santée, Santé, santé1, sante, santé.La, santé3, santé4, santé.De, santé.Une, nutrition, lasanté, santé.Si, santé.Pour, santépublique, santéÀ, 
+---------------------
+
+91
+178
+an, An, an., an.Un, 2an, Bao', Hui', an.Et, 365j, 1an, an.Ce, Rui', 365J, anLe, an.-, ecto1, Dao', an-, Qor', an.Il, 
+---------------------
+Routes & Circulation
+92
+583
+route, chemin, routes, route.De, Route, route.La, autoroute, route.Mais, route.Et, route.Le, route.Il, route.Une, longeant, route., routeLa, piste, route.Pour, route.Un, ferrée, auroroute, 
+---------------------
+
+93
+1807
+passera, fera, prendra, proposera, profitera, suivra, donnera, permettra, présentera, pourra, offrira, retrouvera, arrivera, commencera, voudra, viendra, imposera, sera, assurera, demandera, 
+---------------------
+
+94
+505
+chez, Chez, .Chez, chezles, auprès, chez-vous, pas.Chez, comme, dechez, avec, .chez, moi, chez-, parmi, devant, entre, pour, dans, dixit, soi, 
+---------------------
+Blessures & Hospitalisation
+95
+1414
+graves, aggravations, blessures, conséquences, problèmes, incidents, pertes, traumatismes, accidents, dysfonctionnements, perturbations, inévitables, causes, défaillances, étouffements, désagréments, terribles, agressions, pourrissements, risques, 
+---------------------
+
+96
+11
+td, 2l5, tds, 1l9, tbody, TD, Td, 1.9l, GHIA-, wj, td4, 1z, 2.1l, r11, SRDT, w202, ph1, xsi, r19, Tdi, 
+---------------------
+
+97
+246
+non, Non, seulement, pas, mais, certes, oui, évidemment, apparemment, forcément, évidement, bien-sûr, bien, effectivement, plus.Non, donc, nullement, sûr, .Non, encore, 
+---------------------
+
+98
+1389
+faite, présentée, retirée, arrêtée, imposée, décidée, préparée, rendue, proposée, formée, réalisée, transformée, développée, passée, établie, annoncée, gérée, considérée, récupérée, abandonnée, 
+---------------------
+Détente
+99
+41
+spa, sauna, jacuzzi, Spa, spas, balnéothérapie, sauna., sauna-hammam, hammam, balnéo, wellness, jacuzzis, spa., piscine, solarium, SPA, hydromassage, thalassothérapie, piscine-jacuzzi, thalasso, 
+---------------------
+
+100
+59
+b, ii, rdel, i, c,d, b., d,, b,, d,e, iv, rn', .g, b-1, f, 1-a, u, i., 4ac, ⩽, a.x, 
+---------------------
+
+101
+90
+sps, aep, bcs, ssc, lps, axo, ccr, sgx, ssf, crf, dgs, tsm, spc, ctc, sdv, nca, amk, mdj, csm, rsm, 
+---------------------
+Local
+102
+1085
+gatineau, outaouais, rimouski, saguenay, granby, sherbrooke, abitibi, longueuil, ottawa, chicoutimi, lhjmq, shawinigan, québec, terrebonne, drummondville, montreal, gatinois, victoriaville, québec., laurentides, 
+---------------------
+Sport
+103
+260
+buts, buts., Buts, matchs, buts-, penaltys, buteurs, pénaltys, matches, goals, penalties, pénalties, coup-francs, égalisateurs, buteur, tirs, objectifs, but, penalty, score, 
+---------------------
+
+104
+74
+dr, dr., raichi, -Dr, Dr, g., -Pr, mr, tl, Pr, rer., cr, ph., pr, iik, r., r, d., méd, jg, 
+---------------------
+
+105
+108
+gt, lt, xC0, xF9, x000A, xC7, -f1, gT, xFB, xEE, xC9, qh, xE7, YoBoY, -w, iui, xB0, ltx, xAA, bjcm, 
+---------------------
+
+106
+335
+the, and, with, into, through, of, for, your, that, its, from, our, to, this, their, some, in, another, around, them, 
+---------------------
+
+107
+25
+#, ABYA, hex3, polqc, tabRC, TMCweb3, p523693, Graphgr, hex6, xC9, 0432C8, A4A4A4, hex1, hex2, hex10, hex4, tbt, hex7, 2906316, Sö, 
+---------------------
+
+108
+786
+dit, disait, dis, redit, disais, dira, expliqué, parlé, dirait, disant, déclarait, dit.On, dit.Mais, rétorque, dit.C', expliquait, affirme, pense, rétorqué, dit.Il, 
+---------------------
+
+109
+246
+roy, Roy, roi, roys, Royne, reyne, Roi, maistre, chrestien, Roiaume, mareschal, huictiesme, françois, royalle, faict, voiage, moyne, saige, commandoit, sainct, 
+---------------------
+
+110
+81
+o, o., é, O, u, iqu, 三日, ù, Nko', xF9, sob, eto', .u, p, OJe, Te', oC', r, oo, Ngo', 
+---------------------
+
+111
+228
+http, ethttp, àhttp, hhttp, lehttp, .http, ehttp, https, ahttp, surhttp, dehttp, -http, frhttp, phttp, 4.http, nhttp, 5http, dhttp, voirhttp, 3.http, 
+---------------------
+
+112
+600
+prix, Prix, tarif, leprix, prix.Ce, tarifs, prix., coût, prix.Un, prix.Le, cout, prix.Il, prix.Les, exorbitant, deprix, prixprix, prix.De, prix.L, rapport-qualité, prix.C', 
+---------------------
+
+113
+590
+gagné, reçu, subi, perdu, obtenu, bénéficié, remporté, récupéré, souffert, réclamé, apporté, emporté, retrouvé, cédé, ramené, décroché, échappé, connu, donné, lâché, 
+---------------------
+Local
+114
+511
+laval, beauce, repentigny, longueuil, lavoie, orléans, saint-hubert, perriere, montluçon, chateaubriant, sherbrooke, lyon, terrebonne, champigny, argenteuil, martineau, bernier, montmagny, bernay, lamont, 
+---------------------
+
+115
+221
+jeu, jeu.Le, jeux, jeu.Un, jeu.Ce, jeu.De, jeu.Tout, jeu.C', gameplay, mini-jeu, jeu.Il, multi-joueur, en-jeu, jeu.Mais, jeu.On, jeu.Et, -jeu, jeu.Si, multijoueur, jeu.La, 
+---------------------
+Musique
+116
+179
+jazz, blues, jazz-blues, funk, soul, rock, folk, blues-rock, blues., country-blues, rock-blues, hard-bop, jazz-soul, jazz., reggae, soul-jazz, jazzy, rockabilly, latin-jazz, groove, 
+---------------------
+
+117
+17
+|, --Les, •, --, --3l, --Le, --3rd, 弋ぅり, --Mk2, --r, --FG, --NRJ, -, --Mk1, --La, --HDR, --DBZ, .ﾄ, --TMS, dbte, 
+---------------------
+Local
+118
+199
+magog, chicoutimi, saguenay, drummondville, rimouski, shawinigan, terrebonne, charlevoix, st-hubert, repentigny, Memphremagog, Magog, lanaudiere, montreal, st-hyacinthe, st-jean, sherbrooke, laurentides, westmount, pully, 
+---------------------
+
+119
+8771
+les, importantes, différentes, des, ces, diverses, habituelles, certaines, significatives, nombreuses, celles-ci, concrètes, globales, réelles, particulières, nouvelles, diffférentes, actuelles, considérations, telles, 
+---------------------
+
+120
+25
+oc, Oc, Oïl, òc, Òc, oco, Fèsta, c12c, oïl, tobre, tiv, çai, OC, dóu, ÒC, cupe, iqu, igp, oc-, frp, 
+---------------------
+
+121
+2365
+tête, forme, une, première, photo, cette, place, carte, coupe, ronde, vidéo, seule, table, petite, dernière, nouvelle, partie, ligne, fameuse, position, 
+---------------------
+
+122
+92
+gaz, Gaz, gaz., propane, gazs, méthane, gaz.La, gaz.Le, pétrole, degaz, carboniques, gas, butane, gaz-, gaz.Les, charbon, schiste, hydrocarbures, carbonique, bombonnes, 
+---------------------
+Sports dhiver
+123
+105
+ski, Ski, skis, snowboard, skier, ski., ski.Le, luge, ski-joering, ski-, hors-ski, snowtubing, snowblade, freeride, skieurs, joering, ski-joëring, skiable, freeski, snowboarding, 
+---------------------
+Éducation
+124
+144
+cégep, Cégep, CÉGEP, CEGEP, cégeps, Cegep, cegep, CÉGEPs, collégial, CÉGEPS, cégépien, Québec, Sherbrooke, cégépiens, UQAM, UQTR, Cégeps, Édouard-Montpetit, Chicoutimi, Mont-Saint-Louis, 
+---------------------
+Chant
+125
+244
+voix, voix., voix.La, voix.Et, voix-, voix.Il, voix.Le, voix.Les, intonations, voixLa, voix.Je, voix.Pour, Voix, voix.Mais, voix.-, voix.En, voix-là, enrouée, rauque, éraillée, 
+---------------------
+
+126
+870
+année, semaine, annéee, anné, année.De, décennie, année.À, dernière, année.Et, annéeet, année.Mais, année-ci, année., période, année.Cette, fin, année.C, année.L, année.Depuis, année.Au, 
+---------------------
+
+127
+113
+guy, eric, beart, cotten, Guy, raoul, bedos, christian, moquet, bryan, claude, michel, jean-michel, paul, danny, holly, girard, tony, erick, béart, 
+---------------------
+
+128
+2
+ko, Ko, kB, Mo, Kb, KB, kO, mo, Koctets, kb, SuperN, 1Mo, KiB, PDF-, Mb, kibi, kbs, megs, kio, zh-TW, 
+---------------------
+Société
+129
+3910
+politique, nationale, sociale, publique, économique, institutionnelle, gouvernementale, régionale, internationale, culturelle, institution, financière, culture, environnementale, éducation, locale, économie, territoriale, morale, religieuse, 
+---------------------
+Local
+130
+5754
+québec, saguenay, sherbrooke, montréal, québec., chicoutimi, rimouski, longueuil, montreal, drummondville, quebec, shawinigan, granby, gaspésie, terrebonne, laurentides, toronto, canada, charlevoix, victoriaville, 
+---------------------
+Hockey
+131
+188
+lnh, nhl, lhjmq, nfl, sags, mlb, Nhl, nba, chsb, mvp, lch, mhsc, u16, u18, lfp, dtn, tfc, 2K9, lnr, u17, 
+---------------------
+
+132
+597
+monde, entier, tout, monde.Tout, monde.Ce, monde.Un, monde., monde.Il, monde.Et, monde.Le, monde.Mais, Monde, continent, mondeet, pays, monde.Au, mond, monde.On, monde.Même, monde-là, 
+---------------------
+
+133
+11
+ha, ha., Ha, 40ha, Mha, 000ha, 20ha, hℓ, 18ha, hect, 50ha, 11ha, 16ha, 50Ha, 10ha, 40Ha, 9ha, 15ha, 13ha, 5ha, 
+---------------------
+
+134
+434
+blanc, noir, gris, bleu, brun, rouge, marron, jaune, beige, blancle, doré, vert, violet, blanc.On, blanc.Un, blanc., bleu.Le, blanc.Le, argenté, rose, 
+---------------------
+
+135
+88
+mario, Mario, wario, luigi, mariokart, marios, -Mario, nintendo, rayman, Mariokart, metroid, sonic, koopa, kirby, waluigi, yoshi, bowser, zelda, Supermario, yoshi', 
+---------------------
+
+136
+145
+mots, mot, mots., phrases, mots-là, mots.Il, mots.Les, mots.Le, motsUn, mots-images, mots-, mots-étiquettes, mots.Et, mots.Pour, mots.C', expressions, termes, mots.J', motsJe, mots-nombres, 
+---------------------
+Sport
+137
+389
+club, clubs, club.Le, Club, club.En, club.Et, ex-club, championnat, club.L', club., clubs., football, club.A, club.Je, club.-, club-, football-club, club.Il, clubL', club-phare, 
+---------------------
+
+138
+7474
+première, dernière, cette, une, nouvelle, seule, seconde, deuxième, toute, grande, partie, petite, troisième, belle, fois, semaine, bonne, journée, fin, telle, 
+---------------------
+Noël
+139
+184
+noël, noel, Noël, Noêl, noêl, noël., Noel, Noël.A, Noël.Et, Noël., Nöel, Noël.-, noel., nöel, Noël.Il, Noël.En, Noël.La, nowel, Noël.Le, père-noël, 
+---------------------
+
+140
+51
+k, z, j,, n,, qj, k,, yf, i,j, w, nP, v,, λf, x,y, 0i, zj, iy, w0, zg, qh, .k, 
+---------------------
+Sport
+141
+3462
+joueur, joueurs, entraîneur, entraîneurs, entraineur, coéquipiers, joueur-entraineur, coach, entraineurs, équipe, attaquants, club, coéquipier, meneur, attaquant, joueurs-clés, footballeurs, gardien, arbitres, football, 
+---------------------
+Projets
+142
+910
+projet, projet.Un, projets, Projet, projet.Ce, programme, projet.Le, pré-projet, micro-projet, projet.L, projet.Au, unprojet, projet.Mais, avant-projet, projetd, projetCe, projet.C', mini-projet, chantier, leprojet, 
+---------------------
+
+143
+5978
+explique, affirme, rappelle, insiste, indique, souligne, confirme, constate, reconnaît, évoque, considère, admet, suggère, signale, ajoute, démontre, prouve, conclut, pense, parle, 
+---------------------
+
+144
+973
+david, steve, john, erick, johny, mike, christopher, tony, alex, michael, andrew, mikey, thomas, eric, james, chris, jonathan, mikel, kevin, danny, 
+---------------------
+Restauration
+145
+50
+bar, bar.Le, bistrot, Bar, bar.Un, bar., restaurant, barman, bar-lounge, bar-brasserie, snack, restaurant-bar, bar-, comptoir, salon-bar, café-bar, bar-discothèque, bars, bar-salon, bar-resto, 
+---------------------
+
+146
+4241
+jours, semaines, pendant, après, mois, durant, heures, avant, quelques, temps, quinze, depuis, années, début, semaine, trente, dix, ans, décennies, vingt, 
+---------------------
+Politique
+147
+4427
+président, ministre, gouvernement, conseil, comité, secrétaire, délégué, exécutif, Conseil, vice-président, présidentdu, Président, ministère, directeur, gouvernemental, Ministre, commissaire, Haut-conseil, député, adjoint, 
+---------------------
+
+148
+936
+homme, femme, jeune, Homme, homme.Un, hommme, garçon, enfant, individu, homme.Il, homme., femme.Un, humain, homme.Ce, homme.L, fille, unhomme, adolescent, hommeUn, homme.Une, 
+---------------------
+Local
+149
+1555
+canada, québec, quebec, canada., québec., Canada, quebec., montreal, montréal, france, Québec, ontario, toronto, Canada., Québec., canadien., belgique, nouveau-brunswick, Canada.Je, Quebec, 
+---------------------
+
+150
+1647
+saint, Saint, saint-, -saint, saint., saints, Saint-, jourSaint, deSaint, .Saint, apôtre, desaint, Saintt, sainte, macaire, bienheureux, médard, -Saint, Paris-Saint, gobain, 
+---------------------
+
+151
+17
+foy, saincte, debvoir, receu, avecq, quoy, Saincte, ceste, veue, voftre, loy, receue, mesme, celuy, sçavoir, sainct, soubs, fidelle, pieté, toutte, 
+---------------------
+
+152
+104
+ex, Ex, ex-, A4Mon, -ex, .Ex, abrupto, trê, libris, aequo, equo, trême, 3-0126, officio, nihilo, EX, FIIFO, voto, ex., Ex., 
+---------------------
+
+153
+338
+site, web, internet, Web, Site, sites, Internet, blog, site-blog, sitee, siteCe, sous-site, site4, site2, siteSite, mini-site, lesite, site.Ce, siteinternet, internetUn, 
+---------------------
+
+154
+88
+oeil, œil, oeuil, oeil., oeil.Le, oeil.Il, oeil.Je, oeils, œil., oeil.J', oeil.-, œil.Le, oiel, oeil.Pour, clein, oeil.La, doeil, oeil-, loeil, œil.La, 
+---------------------
+
+155
+18
+ei, ban', eî, èi, ει, gen', qy, sê, yf, qj, ék, yw, Ban', qo, rā, .v, usg, qh, yû, äu, 
+---------------------
+
+156
+5128
+dernier, début, premier, moment, prochain, soir, après, lors, deuxième, jour, avant, lendemain, mois, nouveau, matin, week-end, temps, dimanche, départ, vendredi, 
+---------------------
+
+157
+22
+¢, Grà, grà, âÂ, ChÃ, ÂÂ, 1â, bà, ℓαυ, ¨, GrÃ, є, niÃ, bÃƒÂ, â, blÃ, 2â, reÂ, BÃ, 2Ã, 
+---------------------
+Cinéma
+158
+377
+film, long-métrage, film.Un, métrage, court-métrage, film.Le, film.Ce, Film, film.On, film.Il, cinéma, film.C', films, film.A, film-événement, film.Et, film.-, réalisateur, remake, film.Si, 
+---------------------
+
+159
+90
+yves, laurent, jean-yves, Yves, michel, laurence, jean-pierre, philippe, gerard, jean-claude, yanne, xavier, didier, jean-, alain, dupuy, ghislaine, jean-daniel, gérald, ghislain, 
+---------------------
+Animaux
+160
+44
+zoo, Zoo, zoos, zoologique, bioparc, zooparc, parc, delphinarium, animalier, Zooparc, Touroparc, Ecomuseum, Tierpark, mini-zoo, vivarium, marineland, ZOO, cerza, zoo-parc, CERZA, 
+---------------------
+
+161
+234
+cent, cents, cinquante, dix, vingt, vingt-cinq, quarante, mille, trente, soixante, trente-cinq, quinze, cinq, soixante-quinze, huit, trente-deux, douze, quarante-cinq, soixante-cinq, quatre-vingt, 
+---------------------
+Polluants & Dangers
+162
+3326
+bio-actifs, gaz, eau, chimique, hydrocarbures, méthanique, acido-particulaire, chimiques, charbon, énergie, biomasse, végétale, carboniques, bio-accumulation, pesticides, combustible, radio-actives, électrique, électricité, nitratés, 
+---------------------
+
+163
+64
+vu, eu, ai, pu, lu, Vu, pû, as, j', dû, a, vu., vu.Et, vu.J', su, y', déjé, vù, n', J', 
+---------------------
+Crimes & Accidents
+164
+1706
+accusé, procès, coupable, inculpé, meurtre, condamné, accusés, accusation, criminel, crime, accusée, coaccusé, incarcéré, inculpation, tribunal, homicide, inculpés, présumé, co-accusé, inculpant, 
+---------------------
+
+165
+92
+info, news, infos, info., news., actu, information, infos., informations, actualités, infos.Pour, niouze, actualité, info.J', news2, informations., actualités., flash82, -info, news-, 
+---------------------
+Internationnal
+166
+3655
+canadien, québécois, français, canadiens, québecois, américain, anglo-québécois, nord-américain, anglais, canadiens-anglais, britannique, canadienne, québécoise, québecquois, anglophone, néo-québécois, canado, néo-canadiens, canadien-anglais, italo-québécois, 
+---------------------
+Spectacles
+167
+368
+salle, salles, mini-salle, Salle, salle.La, chambre, sallle, sallede, hall, salle., -salle, 1salle, sallon, bain, salleLa, rez-de-chaussée, salle.Le, bains, cafétéria, attenante, 
+---------------------
+
+168
+3784
+peut, pourrait, devrait, doit, pourra, semble, veut, voudrait, devait, puisse, fait, devra, pouvait, souhaiterait, serait, vient, faut, ferait, aurait, saurait, 
+---------------------
+
+169
+112
+situé, située, implanté, localisé, situe, situés, placé, Situé, situéà, niché, Localisé, situées, aménagé, installé, équipé, positionné, sis, logé, centre, idéalement, 
+---------------------
+
+170
+2594
+avoir, déjà, être, jamais, pas, encore, toujours, effectivement, donc, bien, autant, réellement, ait, certainement, aurait, aussi, mal, pourtant, déja, enfin, 
+---------------------
+
+171
+214
+cas, cas.Dans, cas.En, sauf, cas., cas.Au, cas.Ce, cas.Si, cas.Un, cas-là, cas.Mais, cas.D', cas.Par, revanche, cas.Donc, cas.Et, cas.Après, Sauf, cas.Alors, cas.De, 
+---------------------
+
+172
+1558
+trop, plus, assez, peu, très, suffisamment, moins, tellement, relativement, excessivement, beaucoup, extrêmement, encore, trèèès, suffisament, vraiment, extrèmement, nettement, trèèèèèèèès, bien, 
+---------------------
+
+173
+12
+cm, cm., cmx, cm5, 39cm, cm.A, cm.Il, 1,7cm, 13cm, mm, 98cm, 44cm, 37cm, cm24, cmA, 83cm, cm.1, 73cm, 56cm, 11cm, 
+---------------------
+
+174
+39
+f, λf, yf, 1-f, .g, λx, .f, F, d,, ⁡, v,, r-r, r, 1-v, b, Δf, 2.8D, cking, .u, hN, 
+---------------------
+
+175
+36
+van, Van, den, Tuyl, der, Eerd, G.Van, Baaren, Harten, Houdt, Gilse, Aerde, R.Van, vanden, Grieken, von, Tuyll, Zanden, zegen, M.Van, 
+---------------------
+Gastronomie
+176
+72
+café, thé, café., café.Le, cafe, café.-, café-, caféL', café.La, Café, expresso, café.L', capuccino, thé., café1, caffé, cappuccino, Thé, cafés, caféLe, 
+---------------------
+
+177
+151
+nom, patronyme, prénom, nom.Le, surnom, nom.Un, pseudonyme, nom.On, dénomination, noms, nom.Il, nom.-, nom.Ce, nom.C', nom-là, sigle, nom.La, nom.Si, sobriquet, dénominatif, 
+---------------------
+Taxes
+178
+195
+taxes, taxe, taxes., redevances, surtaxes, redevance, taxations, taxation, Taxe, surtaxe, parafiscales, Taxes, taxe., accises, TVA, parafiscale, taxesLes, impôts, impôt, parafiscalité, 
+---------------------
+Célébration
+179
+218
+fête, Fête, célébration, fêter, fete, festivité, célébrer, fête.La, fêtez, kermesse, fète, fêtes, fêtent, fêté, anniversaire, fêtait, festive, festivités, Saint-Valentin, fête-Dieu, 
+---------------------
+
+180
+235
+but, objectif, But, but.Le, finalité, buts, dessein, lucratif, but., goal, inavoué, premier, marquer, seul, vise, consiste, ultime, visait, permettre, viser, 
+---------------------
+Musique
+181
+2541
+musique, chanson, chansons, chanteur, musical, musicien, concert, rock-pop, musiciens, guitare-voix, guitariste, mélodie, musicale, album, chanteurs, rock-folk, guitare, rock, jazz, chant, 
+---------------------
+
+182
+88
+rel, nofollow, natu, discr, Rel, nalis, lant, rera, concr, lement, Secr, rés, iner, cus, ult, boucl, canonical, quilibr, ge, transf, 
+---------------------
+Culture
+183
+213
+musée, Musée, muséee, musée.Le, musé, musées, parc-musée, musée-atelier, musée., musée-, mini-musée, muséum, musée-jardin, muséeLe, jardin-musée, museum, musee, éco-musée, Musée-Château, musée-école, 
+---------------------
+
+184
+74
+île, ile, Île, ïle, Ile, archipel, îles, île-, lîle, Grande-île, île-d', île.La, iles, îlette, presqu', île-forteresse, presque-île, îlot, Îlette, île-continent, 
+---------------------
+
+185
+33
+el, al, El, Al, qods, el-, -El, oul, quds, El-, hoyo, Har', kanz, Kbir, cojo, dedo, biar, -Al, bidh, hamdu, 
+---------------------
+Infrastructures
+186
+258
+pont, Pont, viaduc, quai, ponts, pont-viaduc, passerelle, tunnel, ponton, pont-, enjambant, pont-passerelle, -pont, demi-pont, fleuve, pont-levant, pont-barrage, pont., bateau, parapet, 
+---------------------
+
+187
+97
+alma, Alma, almas, esperanza, mater, cuerpo, novia, mira, amor, cisne, almana, dolorosa, enamorado, paraiso, vitoria, cuero, amar, Cuerpo, llora, profesora, 
+---------------------
+
+188
+132
+rang, rang., grade, rangs, classement, échelon, niveau, sommet, hissant, statut, premier, second, classant, quatrième, cinquième, hisser, gradé, haut, panthéon, hissé, 
+---------------------
+
+189
+62
+val, Val, reuil, ajol, cenis, aoste, vallée, arly, valle, -Val, Val-, Cluson, vallee, Val-de-, vallon, Divedro, dOise, val-d', Bargis, vallèe, 
+---------------------
+
+190
+23
+cn, dn, cI, qj, yf, fq, tI, -pi, wj, stc, k0, qa, tH, cll, qf, gn, 0i, dtt, y4, .f, 
+---------------------
+Animaux
+191
+1692
+chiens, animaux, loups, lapins, ours, chien, renards, chats, cerfs, animal, bêtes, félins, tigres, fauves, sangliers, féraux, sanglier, ratiers, loup, chiens-loups, 
+---------------------
+
+192
+6398
+jeunes, citoyens, gens, politiciens, travailleurs, étudiants, professionnels, employés, dirigeants, journalistes, fonctionnaires, entrepreneurs, résidents, militants, artistes, étrangers, hommes, individus, médecins, membres, 
+---------------------
+
+193
+22
+vtt, VTT, Vtt, rando, velo, vélo, btwin, V.T.T, cyclo, VTT., V.T.T., VTTAE, enduro, randonnée, randonné, vélo., kayac, pedestres, vélo.A, cyclosport, 
+---------------------
+Local
+194
+1127
+centre, centre-ville, pied, quartier, ville, camp, village, mini-centre, bourg, côté, périphérie, milieu, centre.Le, situé, cœur, nord, centres, Centre, pôle, port, 
+---------------------
+
+195
+878
+sans, Sans, aucun, aucune, pas.Sans, doute, plus.Sans, .Sans, moindre, .sans, soucier, -sans, pas, aucunes, jamais, -Sans, autant, nul, 3Sans, etsans, 
+---------------------
+Nature
+196
+118
+mont, Mont, monts, Mont-, Mount, Grand-Mont, Soracte, St-Mont, -mont, Yōtei, Chamonix-Mont, mont-dore, Monts, démont, mont-blanc, mont-Blanc, Lyon-Mont, mont-royal, Cindre, colline, 
+---------------------
+Statistiques & Tendances
+197
+161
+taux, tauxde, Taux, pourcentage, tauxd, taux., .Taux, pourcentages, -taux, -Taux, letaux, coefficient, ratio, untaux, rendement, coût, ratios, coefficients, seuil, rendements, 
+---------------------
+Nature
+198
+122
+baie, Baie, baie., baies, crique, golfe, péninsule, vitree, halong, île, rade, mahault, côte, plage, bahía, ile, Ecalgrain, lagune, fjord, estuaire, 
+---------------------
+
+199
+113
+bloc, blocs, Bloc, bloc., bloc-, block, sous-bloc, blocks, bancher, silents, superbloc, blocs., coffrant, mur, bloc-tourelle, socle, bloc-cylindres, monolithique, chaînage, sous-compteur, 
+---------------------
+
+200
+113
+new, old, new-, modern, zealand, blackFear, scool, first, good, path.Node, exciting, cave-dwelling, warms, charismatic, two-year, little-known, shameful, first-ever, five-year, big, 
+---------------------
+
+201
+174
+glace, glaces, ice, Glace, glace., galce, glaçon, glacée, banquise, glaçe, sorbet, glacier, neige, slush, glac, Ice, glaçons, glasse, glaciers, gelée, 
+---------------------
+
+202
+188
+paul, paula, Paul, michel, andré, charles, henri, pauls, georges, louis, thomas, joseph, philippe, claude, george, michaël, andrée, robert, david, nicolas, 
+---------------------
+Maladie & Mortalité
+203
+1701
+maladie, grippe, épidémie, cancer, infection, pandémie, mortelle, accident, tuberculose, leucémie, rechute, pneumonie, toxicose, maladie.Il, grave, pathologie, crise, dépression, catastrophe, pneumonique, 
+---------------------
+
+204
+51
+cpe, evs, ipr, unsa, sco, drh, étb, iufm, fcpe, snalc, dgh, dgs, aed, clg, hsa, unef, dirlo, anpe, enm, Iufm, 
+---------------------
+
+205
+4070
+tout, cela, simplement, ceci, rien, même, juste, autant, donc, bien, surtout, évidemment, fait, Tout, dire, pas, pourtant, aussi, mais, pareil, 
+---------------------
+
+206
+27
+dû, pu, dù, eu, pû, su, dût, va, a, ai, vu, sû, failli, as, y, ç', aurait, faillit, tardé, dut, 
+---------------------
+
+207
+168
+cet, Cet, nouvel, bel, cette, .Cet, article, tel, mon, son, jours.Cet, ouvrage, premier, monde.Cet, dernier, ceci, article.L', unnouvel, ans.Cet, ton, 
+---------------------
+
+208
+215
+marc, fery, michel, louis, saint-marc, philippe, jean, Jmarc, Marc, vadehors, claude, jean-marc, jmarc, marco, eric, gerard, david, daniel, jean-, laurent, 
+---------------------
+
+209
+19
+fm, Fm, FM, FM., Oüi, mixx, FM-, TPD-3, rfm, Kiis, CJMD, 98.5, 92.9, CKIA, 93.3, 98.0, 100.8, CIHO, 106.5, 96.9, 
+---------------------
+
+210
+79
+–, ”, “, …, ‘, , „, ‒, , , , →, , , , -, •, .C, ←, , 
+---------------------
+Crimes & Accidents
+211
+3740
+agression, victime, violence, viol, meurtre, brutalité, dénonciation, violente, criminel, crime, agresseur, accusation, condamnation, criminelle, meurtrier, coupable, répression, arrestation, présumée, provocation, 
+---------------------
+Politique
+212
+530
+chef, Chef, chefs, chef.Le, chef., sous-chef, chefde, Chefs, cheffe, cuisinier, -chef, sous-chefs, dirigeant, chefd, ex-chef, chef.-, .Chef, chefe, directeur, cuistot, 
+---------------------
+
+213
+71
+rues, ruelles, trottoirs, rues., avenues, pietonnes, piétonnières, villes, faubourgs, artères, boulevards, ruelle, routes, centre-villes, quartiers, malfamées, rue, commercantes, trottoires, venelles, 
+---------------------
+Éducation
+214
+383
+cours, test, tests, début, semestre, programme, cours.Un, examens, pré-stage, inter-cours, niveau, cours., exercices, cursus, mois, cycle, durant, mini-cours, Cours, stage, 
+---------------------
+Santé
+215
+172
+soins, soin, soins., desoins, palliatifs, Soins, soins-, traitements, infirmiers, médicaux, paliatifs, médico-esthétiques, soins.Les, soins.Pour, santé, prodigués, soinsL, soignants, soins.Le, services, 
+---------------------
+Gastronomie
+216
+118
+vin, vins, Vin, vins., crémants, crémant, vignoble, vins.Le, rosé, champagne, vin., Vins, liquoreux, vin.Le, pouilly-fumé, vignobles, spiritueux, pommard, crus, vins.La, 
+---------------------
+
+217
+8608
+une, cette, première, nouvelle, grande, importante, traditionnelle, toute, seule, celle-ci, partie, histoire, contemporaineémission, petite, dernière, perspective, façon, structure, telle, belle, 
+---------------------
+
+218
+1013
+six, cinq, huit, quatre, douze, dix, trois, sept, quinze, treize, onze, dix-huit, vingt, quatorze, vingt-deux, seize, vingt-cinq, vingt-quatre, vingt-six, deux, 
+---------------------
+Agriculture
+219
+103
+ferme, Ferme, ferme., fermes, ferme.La, ferme.Le, ferme.Il, grange, semi-ferme, ferme-, ferme.A, demi-ferme, micro-ferme, extra-ferme, fermette, fermière, ferme-manoir, mi-ferme, bergerie, chèvrerie, 
+---------------------
+
+220
+106
+air, air., air.L', air.Il, lair, air.Le, air.Un, air.A, air.Ce, air.La, air.Pour, air.Mais, air.Les, air.Et, air.Je, air.-, air.Une, air.J', oxygène, plein, 
+---------------------
+
+221
+811
+gens, gents, gensses, gens-là, ceux, honnêtes, sgens, politiciens, personnes, gens.Les, jeunes, citoyens, gensqui, hommes, abrutis, connards, individus, gamins, idiots, pauvres, 
+---------------------
+
+222
+79
+forest, woods, wood, woodlands, forested, forests, forrest, meadows, forest., Forest, gump, woodland, meadow, beech, forestry, lake, wooded, rainforest, cedars, tree, 
+---------------------
+Drogues & Alcool
+223
+736
+drogue, cannabis, drogues, cocaïne, alcool, marijuana, cannabis., stupéfiants, canabis, haschich, tabac, haschisch, méthamphétamines, cocaine, psychotropes, méthamphétamine, hasch, hachisch, narcotiques, droque, 
+---------------------
+
+224
+1207
+veux, sais, crois, peux, dis, vais, dois, voudrais, vois, pourrais, pense, dirai, dirais, devrais, voulais, oui, voudrai, pourrai, comprends, verrais, 
+---------------------
+Justice
+225
+359
+juge, Juge, magistrat, tribunal, lejuge, juges, procureur, rejuge, juge., déjuge, parquetier, jugement, juge-président, départiteur, chef-juge, ex-juge, Tribunal, greffier, jugé, commissaire, 
+---------------------
+
+226
+754
+poste, bureau, postes, bureaux, poste-clé, siège, Poste, poste.Le, Bureau, travail, mandat, secrétariat, sein, poste., poste.Il, demi-poste, poste.La, pourvoir, relais, bureau.Le, 
+---------------------
+
+227
+426
+hausse, baisse, augmentation, hausses, diminution, baisses, baissé, baissede, baisser, quasi-stagnation, hausse., hausse.Le, progression, unebaisse, hause, lahausse, stagnation, Hausse, quasi-stabilisation, baisse., 
+---------------------
+Météo
+228
+743
+pluie, vent, froid, soleil, orage, chaud, brouillard, neige, soleilet, pluvieux, ciel, sol, pluit, tempête, pluie., bruine, soleille, humide, orages, chaleur, 
+---------------------
+
+229
+41
+ci, çi, celle-, celui-, -ci, Ci, ci., -dessous, Celui-, ci-, ceux-, Celle-, celles-, .celle, là, .Ci, coïn, dessous, ca, darem, 
+---------------------
+
+230
+196
+sup, inf, Sup, sup., sups, dens, riorit, supé, supp, 1anFUN, plémentaires, rieure, SUP, Sup., erieure, plémentaire, supe, erieur, supp., rieures, 
+---------------------
+
+231
+9
+vs, Vs, vs., VS, versus, pvez, -vs-, Vs., HyQRiOn, pt, V3K, ns, ss, Ns, Qd, Qs, OU, reç., Rko, vS, 
+---------------------
+
+232
+1026
+tew, kee, koy, nii, bii, ruc, tay, jao, fok, chy, rro, wals, vè, tiu, nha, ghe, vèr, kah, cua, iso5, 
+---------------------
+Sport
+233
+121
+golf, Golf, golf., golf.Le, golfs, golfLe, golf-, tennis, disc-golf, swin-golf, minigolf, Limère, golfeurs, mini-golf, swin, golfing, golf.Internet, golf3, golfeur, 18-trous, 
+---------------------
+Internationnal
+234
+427
+pays, continent, Pays, paysde, -pays, pays.Et, pays.C, pays.Mais, monde, pays-tiers, régions, africains, européens, paysd, pays.À, peuples, despays, pays.Dans, États, pays.-, 
+---------------------
+
+235
+13
+iso, ISO, isos, .iso, ISOs, .ISO, .iso., ISO-, remastersys, Iso, image.iso, md5sum, slitaz, .bin, 700mo, grub4dos, dvd-r, Xodus, boot.img, pupsave, 
+---------------------
+Finance
+236
+258
+fonds, dons, Fonds, fonds., quasi-fonds, financements, fondsLe, capitaux, fonds.Le, sous-fonds, dépôts, versements, investissements, donateurs, financement, extrabudgétaires, subsides, legs, fondsLes, mécénats, 
+---------------------
+
+237
+30
+via, biais, directement, Via, connectant, truchement, grâce, entremise, direct, intermédiaire, sur, utilisant, travers, envoyant, transitant, reliant, directemment, -via, par, passant, 
+---------------------
+
+238
+426
+porte, portes, ouvre, entrouvre, ouvrir, ouvrait, fermant, ouvrent, ouvrira, porte.Mais, fermait, porte.Et, entrouve, ouvrit, porte., referme, ouvrirait, entrouvrir, porte.Elle, ouvrant, 
+---------------------
+Industrie
+239
+328
+usine, usines, Usine, usine-mère, aciérie, mini-usine, ex-usine, manufacture, usine-pilote, usine., usine-, raffinerie, ville-usine, aluminerie, usines., fonderie, fabrique, industrielle, fabrication, métallurgique, 
+---------------------
+
+240
+1086
+équipe, équipes, équipe.La, équipe.L', equipe, Équipe, équipe.Une, Equipe, équipede, équipe.Il, équipe.Un, entraîneurs, uneéquipe, super-équipe, lʼéquipe, équipe-école, entraîneur, équipe.C', équipe., équipe.Le, 
+---------------------
+Télévision
+241
+133
+télé, télévision, téloche, télévison, télé., télés, tv, tele, tévé, téloch, téléLa, téle, radio, télévisions, télé-poubelle, télé-réalité, télévion, télèvision, télévisuelle, série-télé, 
+---------------------
+
+242
+4584
+faire, passer, penser, fait, commencer, dire, voir, demander, parler, finir, continuer, fasse, venir, essayer, revenir, amener, laisser, vouloir, croire, remarquer, 
+---------------------
+
+243
+20
+ca, ça, Ca, çà, cà, .ça, lolça, Ça, lolCa, çe, .Ca, qd, ,ça, sça, pCa, pke, qunad, àa, queça, .bah, 
+---------------------
+
+244
+767
+mois, semaines, jours, mois., ans, mois.À, mois.Et, semaine, mois.Mais, mois.Au, mois.En, mois.A, six, mois.Le, mois.Ce, mois.C, demi, mois.Un, quinze, mois.Alors, 
+---------------------
+
+245
+1177
+pieds, bleus, noirs, rouges, ronds, bruns, verts, blancs, yeux, marons, violets, cailloux, doigts, palots, blonds, carrés, jaunes, trainants, piquetés, argentés, 
+---------------------
+Local
+246
+487
+granby, victoriaville, drummondville, saguenay, terrebonne, sherbrooke, rimouski, chicoutimi, longueuil, montreal, shawinigan, laurentides, gatineau, valleyfield, st-jean, Granby, abitibi, montréal, granbyen, charlevoix, 
+---------------------
+Hiver
+247
+137
+tuque, tuques, chandail, mitaine, chapka, cagoule, bobette, casquette, plogue, cache-cou, mitaines, Kanuk, parka, chandails, moustache, boutte, bibitte, gougoune, lousse, bonnet, 
+---------------------
+
+248
+22471
+surtout, alors, même, mais, tout, donc, fait, pourtant, aussi, que, autant, comme, cette, pour, effectivement, cependant, juste, certainement, est, toujours, 
+---------------------
+Véhicules
+249
+47
+moto, moto., motos, scooter, mini-moto, motard, Moto, bécane, motocross, moto.Je, deux-roues, moto.Le, moto.J', moto-, motocyclette, porte-moto, motocycliste, moto-école, enduro, hypersport, 
+---------------------
+
+250
+2260
+trois, deux, quatre, cinq, six, huit, dix, douze, plusieurs, quinze, ces, quatres, vingt, quelques, les, treize, sept, quatorze, onze, trente, 
+---------------------
+
+251
+843
+leurs, les, ses, ces, nos, Leurs, vos, des, mes, propres, deux, véritables, mêmes, autres, tes, leures, certaines, toutes, certains, touts, 
+---------------------
+
+252
+7826
+tout, même, donc, autant, juste, surtout, pas, pourtant, encore, toujours, fait, effectivement, alors, aussi, bien, évidemment, certainement, mais, forcément, simplement, 
+---------------------
+
+253
+448
+sous, Sous, .Sous, -sous, 1Sous, forme, sousl, .sous, sousle, égide, sour, -Sous, couvert, Placée, sousles, sousl', sans, sousla, houlette, dans, 
+---------------------
+
+254
+4220
+jeune, musicien, homme, écrivain, père, comédien, artiste, romancier, chanteur, cinéaste, garçon, journaliste, poète, soldat, politicien, acteur, personnage, ami, peintre, réalisateur, 
+---------------------
+
+255
+10
+fr, nl, FR, wp, 〈, /, fr-, uk, www.vacancesbleues.fr, hln, obp, eu1, www.diplomatie.gouv.fr, smf, fr-FR, Thnks, rcl, fr-CA, esBESbswy, en-gb, 
+---------------------
+
+256
+76
+amp, &, co, u0026, lt, gt, Co, eacute, rsquo, nbsp, x20AC, ;, x201C, xA0, x2026, apos, 039, xFB, co., eacu, 
+---------------------
+Crimes & Accidents
+257
+300
+blessés, blessé, morts, blessées, tués, bléssés, blessés., blessée, grièvement, tuées, blessé., blesses, blessés.La, tué, décédés, victimes, blessés.Le, contusionnés, blessures, bléssé, 
+---------------------
+
+258
+968
+saison, série, saisons, mini-saison, saison.La, estivale, année, mi-saison, saiso, saison., demie-saison, semaine, hivernale, période, saison.Le, dernière, demi-saison, saison.C', Saison, saison-ci, 
+---------------------
+
+259
+33
+ml, mL, µg, mg, mUI, μg, ml1, ml10, ml-, µl, μl, ml., ml100, pmol, ml2, ml125, µL, μmol, ml250, mlde, 
+---------------------
+
+260
+555
+entre, entres, avec, deux, ente, Entre, entreles, les, autres, mi-chemin, séparant, trois, entrela, entrel, eux, plusieurs, autour, différents, séparent, quatre, 
+---------------------
+Gastronomie
+261
+54
+saq, Saq, tiz, ayy, peh, suq, plq, lbr, tew, frc, coka, beq, unm, keg, fak, bû, bth, eih, aam, amex, 
+---------------------
+Nature
+262
+252
+bois, bois., boisde, bois.Le, bois.La, chêne, bois.Un, métal, hêtre, bois4, bois.En, bois.Et, boisCe, Bois, bois.A, bois.Il, bois-métal, bambou, bois.Les, bois.Si, 
+---------------------
+
+263
+187
+lieu, endroit, lieu-même, moment, Lieu, lieu.Le, lieuà, donné, lieux, lieule, lieude, lieu.Il, aura, lieu., samedi, privilégié, lieu.A, lieu.Et, lieu.Ce, premier, 
+---------------------
+
+264
+269
+tour, tourde, tour.Le, tours, tour., second, tour.La, tour.Au, Tour, tour.Un, premier, tour.Et, tour.J', tour.Il, tour.A, tour.Dans, tour.Pour, deuxième, 2tour, passe-passe, 
+---------------------
+
+265
+68
+sacs, sac, sacs., sacs-à-dos, Sacs, cartables, Sac, cabas, sacs-cadeaux, sacs-poubelles, vêtements, baluchons, mini-sac, porte-sacs, sacs-poubelle, foulards, sachets, pochons, bagages, sursacs, 
+---------------------
+
+266
+437
+coups, coup, coupsde, Coup, coups-, tirs, coups., poing, Coups, coupd, coupde, anti-coups, balles, jets, boutoirs, demi-coup, contre-coups, -coup, coup.Un, coups-bas, 
+---------------------
+
+267
+100
+hui, aujourd', aujourd, hui.À, hui.Et, hui.Mais, hui.C, hui.J, hui.Il, hui.De, hui., hui.Ce, aujoud', hui.Alors, hui.Pour, hui.C', hui.L', hui.Le, hui.Si, hui.Dans, 
+---------------------
+
+268
+12309
+surtout, les, ces, certains, même, des, autant, alors, mais, aussi, plusieurs, pour, notamment, donc, que, tout, davantage, cependant, encore, pourtant, 
+---------------------
+Musique
+269
+28
+pop, pop-, rock, Pop, country-pop, brit-pop, électropop, pop-rock, pop-soul, rock-pop, dance-pop, néo-pop, folk, soul, pop-dance, disco-pop, indie, électro-pop, power-pop, indie-pop, 
+---------------------
+
+270
+10
+mn, mn., 8mn, 12mn, 3mn, 1mn, mn-, 6mn, 7mn, 5mn, 18mn, 1h, 15mn, mns, mn.A, 16mn, 2mn, 13mn, 10mn, 4mn, 
+---------------------
+Cinéma
+271
+234
+cinéma, films, ciné, film, cinoche, longs-métrages, cinématographique, long-métrages, cinema, cinoches, cinéma.Le, cinéma.Il, cinémas, cinés, cinéma., films., cinématographiques, cinéma.Pour, dvd, Cinéma, 
+---------------------
+
+272
+721
+près, loin, prés, environ, bout, quart, moins, demi, Près, peu, approximativement, pres, vingt, dizaine, seulement, dix, presque, trente, au-delà, demie, 
+---------------------
+Météo
+273
+248
+neige, neige.La, neige., neige.Le, Neige, neige-, neige.Je, neige.-, neiger, neigeLa, neige.Les, poudreuse, neige18, neigele, neigeuse, neiges, reneige, glace, verglas, neigedu, 
+---------------------
+
+274
+1996
+part, autre, chose, quelque, façon, seule, toute, une, manière, même, certaine, aucune, sorte, autant, cette, tout, juste, chose.Une, chose.De, telle, 
+---------------------
+
+275
+290
+marie, remarie, -marie, marient, marie-, mariera, marien, maria, mariant, marrie, marier, marie., antoinette, mariel, marie-laure, fiance, marié, marie-pierre, dragic, marierait, 
+---------------------
+
+276
+91
+u, ue, i, u', é, q, .u, r, v,w, v,, iqu, û, qj, êm, anj, o, qy, u-, iè, yf, 
+---------------------
+Nature
+277
+25
+monts, Monts, mont, avant-monts, collines, montagnes, piedmonts, Monts-d', Mont, vallées, vallons, piémonts, montagnesMonts, outre-monts, escarpements, plaines, Montagnes, haut-plateaux, colines, contreforts, 
+---------------------
+Art
+278
+118
+arts, Arts, arts-, sciences, art, arts., beaux-arts, arts-visuels, -Arts, arts-plastiques, artisanats, artistiques, 3Arts, artsites, plastiques, Beaux-arts, métiers, artsLes, artArts, arts-primitifs-africainsArts, 
+---------------------
+
+279
+14
+am, pm, MRCK, za75, jpat88, pezronf, Am, dispo74, pm-, pukul, 11月, amJ', より, etgman74, 45am, amA, fma38, AM, pmAh, amje, 
+---------------------
+Économie
+280
+7347
+développement, travail, service, secteur, projet, institutionnel, système, cadre, financier, public, programme, global, professionnel, culturel, marché, plan, local, gouvernemental, actuel, contexte, 
+---------------------
+Système de santé
+281
+1196
+médecins, hôpital, médecin, hôpitaux, infirmières, clinique, patients, infirmiers, hospitalier, médical, médicale, infirmière, soignants, infirmier, hospitaliers, hopital, extrahospitalier, patient, médécins, extra-hospitaliers, 
+---------------------
+
+282
+37
+in, In, is, of, the, Is, to, by, and, my, into, it, -In, Of, at, for, At, with, through, .In, 
+---------------------
+
+283
+31
+adq, Adq, AdQ, LdQ, PAdQ, wp, ADQ, PdQ, pBA, pAdQ, bda, PDDs, lä, ckb, AdQ., AdQs, ntu, Ģ, fr-2, ń, 
+---------------------
+
+284
+196
+défi, challenge, défis, chalenge, Défi, défits, defi, défit, pari, relever, challenges, enjeu, défis., dilemme, défi., défiL', casse-tête, Défis, challenge., nitive, 
+---------------------
+Local
+285
+229
+estrie, estrienne, estrien, terrebonne, sherbrooke, granby, saguenay, longueuil, montreal, estriens, estriennes, laurentides, victoriaville, lanaudiere, abitibi, gatineau, drummondville, mauricie, Estrie, lanaudière, 
+---------------------
+Jeux
+286
+386
+jeux, Jeux, jeu, jeux., -jeux, dejeux, jeux-là, jeux.Les, jouets, jeux-, jeux.Et, minis-jeux, jeux-vidéos, multi-jeux, jeux.Mais, mini-jeux, puzzles, minijeux, jeux.Pour, consoles, 
+---------------------
+Musique
+287
+211
+rock, punk, pop-rock, folk, punk-rock, rock-pop, rock-folk, pub-rock, rocknroll, rock-, hard-rock, heavy-metal, rock-metal, heavy-rock, metal, rockn', dance-rock, rock., funk-rock, rock-blues, 
+---------------------
+Politique
+288
+52
+charte, Charte, chartre, chartes, charte., convention, charte-loi, Chartes, signature, charte-partie, a.r.c.h.e., déontologie, nétiquette, néthique, constitution, laCharte, rêglement, pétition, législation, Netiquette, 
+---------------------
+
+289
+2
+cc, cc3, CC, 3cc, chv, cc., 4cc, dtr, c.c, ltz, bcc, 5cc, Cc, tdr, cc4, cc3O, cs, zg, 2cc, ttr, 
+---------------------
+Télévision
+290
+36
+tva, TVA, T.V.A, TVA., csg, Tva, taxes., taxe, TVALa, T.V.A., TVQ, taxes, ursaff, TVTS, fapiao, facturation, détaxe, crds, impot, exoneration, 
+---------------------
+Routes & Circulation
+291
+130
+voie, Voie, voies, voie-là, voie., ferrée, férrée, voie.Le, chemin, voie-machine, tracée, route, contre-voie, voie.Je, frayée, voie-express, poursuite, voieGarrot, voie-, conséquence, 
+---------------------
+
+292
+6404
+morrison, baldwin, fanning, dixon, denny, corey, harrison, crosby, weston, burke, preston, walsh, boyle, osborne, sloan, dwight, fletcher, elliot, riley, harrington, 
+---------------------
+
+293
+21
+foi, Foi, foi.Mais, foi.C', foi.Et, foi.La, foi., conviction, croyance, foi.Le, foi.Je, foi.Il, foi.En, religion, foi.Pour, confession, sincérité, chrétienne, doctrine, vérité, 
+---------------------
+
+294
+3902
+deux, trois, quatre, cinq, six, huit, plusieurs, quatres, douze, dix, ces, Deux, les, treize, quinze, Trois, sept, quelques, vingt, onze, 
+---------------------
+
+295
+198
+unis, uni, unie, soudés, désunis, unir, unissent, Unis, réunis, unissant, unis., séparés, solidaires, Désunis, unies, unissons, égaux, unifiés, unirons, assemblés, 
+---------------------
+
+296
+4830
+ville, maison, quartier, centre-ville, village, immeuble, bâtiment, centre, jouxtant, habitation, bourg, résidence, rue, église, bâtisse, résidentiel, région, ruelle, résidentielle, lotissement, 
+---------------------
+
+297
+35
+p, .p, P, <, rno, LCLC, q-, pp, qh, q, PHRF, ⊨, rq, p-, 4q, v, n,, p., kq, o, 
+---------------------
+
+298
+2419
+peut, doit, pourra, devrait, pourrait, devra, saurait, puisse, doive, devait, semble, veut, sera, être, pouvait, est, pourait, devrai, voudra, voudrait, 
+---------------------
+
+299
+1676
+bernier, dupuy, duhamel, girard, giraud, pujol, martineau, dubourg, blais, guillou, roussel, benard, lemay, simard, laroche, reynaud, bocquet, dufresne, boyer, delpech, 
+---------------------
+
+300
+46
+size, Size, size., oahu, sized, SIZE, 8pt, sizes, king, 14px, FONT-SIZE, color, ltr, 360px, maxsize, x-small, quote, 12pt, queen, KIMBO-, 
+---------------------
+Politique
+301
+2847
+gouvernement, socialiste, libéral, électorale, parlement, électoral, élection, socialistes, politique, parti, parlementaire, parlementaires, députés, électorat, libéraux, gouvernemental, politiciens, électeurs, élections, politicien, 
+---------------------
+
+302
+6
+ud, nÅ, uds, ur, ûd, nœ, x153, ½, mân, tï, fï, ur., ruc, ūd, cœ, sï, lï, ôle, ûf, rro, 
+---------------------
+Spectacles
+303
+1944
+spectacle, théâtre, scène, spectacles, festival, théâtrale, concert, théâtral, danse, cirque, scénique, cinéma, théatre, cabaret, spéctacle, mini-spectacle, musique, spectacle-concert, spectacle-événement, spéctacles, 
+---------------------
+
+304
+12967
+faire, amener, permettre, donner, commencer, essayer, prendre, proposer, tenter, penser, présenter, retrouver, demander, passer, montrer, introduire, pour, continuer, développer, utiliser, 
+---------------------
+
+305
+2297
+morrison, harrison, bradley, riley, baldwin, dixon, elliot, corey, denny, davey, jhon, josh, danny, gerry, harvey, robyn, adams, ellis, wayne, shaw, 
+---------------------
+
+306
+2938
+après, avant, Après, tard, aprés, début, pendant, jours, dès, durant, mois, fin, lors, semaines, alors, apres, tôt, quand, depuis, moment, 
+---------------------
+
+307
+13
+mm, mm10, mm14, cm, mm15, mm., mm5, mm8, mm4, mm6, mm1, mmde, mmLe, Ø6, mm.1, cm5, Ø8, mm.A, mm13, Ø5, 
+---------------------
+
+308
+4771
+certaines, différentes, les, toutes, ces, nombreuses, nouvelles, grandes, des, diverses, petites, seules, premières, belles, vraies, sortes, importantes, bonnes, autres, multitudes, 
+---------------------
+
+309
+2384
+pierre, métallique, brique, bois, métal, paille, roche, tôle, plastique, platique, crépit, boule, métale, carton, mousse, verre, bille, terre, résine, charbonnette, 
+---------------------
+
+310
+5340
+comme, alors, même, surtout, mais, que, parce, quand, autant, car, puisque, donc, tout, justement, pourtant, aussi, effectivement, juste, évidemment, tant, 
+---------------------
+
+311
+15
+ch, ch-, Ch, ch., P-21, TFSi, e-THP, VVTi, 1ch, kW, 260cv, ch2, N.m., 55ch, 4.0l, chv, 2.4l, FSi, T-jet, T-Jet, 
+---------------------
+
+312
+4
+pc, PC, Pc, pécé, w7, pc., p4g, win7, pc-, eepc, ordi, m14x, gx60, pc', m11x, FNaC, pC, ddur, pc2, htpc, 
+---------------------
+
+313
+30
+nez, nez., museau, Nez, menton, nez.Je, doigt, nez.-, repointe, naseau, narines, pied-de, bouche, repoudre, bouchais, doigts, jobourg, pied, nez.Le, groin, 
+---------------------
+
+314
+243
+ici, ici., ici.À, ici.Et, ici.Un, içi, ici.Mais, ici.C, ailleurs, ici.Oui, ici.De, ici.A, maintenant, ici.Tout, Ici, ici.Ce, ici.On, ici.Enfin, là-bas, ici.Sur, 
+---------------------
+
+315
+225
+ceux, Ceux, celles, ceux-là, gens, ils, celui, certains, tousceux, qui, ceuxqui, ceux-ci, ceux-celles, àceux, etceux, quelques-uns, voudraient, ceusses, eux, tous, 
+---------------------
+
+316
+369
+aide, aider, assistance, appui, Aide, apportée, aideà, aidant, aide.Pour, apporter, aidée, aide.Et, aides, soutien, aidé, aident, besoin, précieuse, solliciter, aide.Il, 
+---------------------
+Hebdomadaire
+317
+491
+hier, avant-hier, soir, matin, jeudi, mercredi, hier., mardi, Hier, Avant-hier, vendredi, samedi, lundi, demain, aujourd', dimanche, après-midi, hier.Et, hui, hier-soir, 
+---------------------
+
+318
+464
+peu, assez, trop, plus, moins, beaucoup, relativement, suffisamment, chouïa, tellement, encore, chouia, très, passablement, chouilla, excessivement, certes, nettement, légèrement, souvent, 
+---------------------
+
+319
+12
+gm, zg, GM, ct, yp, bta, g14, g18, rng, lk, mj, mlg, cmn, gk, orr, mtc, bcc, stc, ltz, cld, 
+---------------------
+Finance
+320
+421
+budget, coût, budgets, cout, buget, dépenses, coûts, bugdet, budgeté, budget.Le, budget., budjet, Budget, budgétaire, financement, dépense, surcoût, budgeter, couts, côut, 
+---------------------
+Crimes & Accidents
+321
+336
+mort, décès, disparition, Mort, décés, décès., décédé, suicide, meurt, noyade, mourir, naissance, tragique, tué, mourant, décès.Le, morts, accidentelle, trépas, prématurée, 
+---------------------
+Politique
+322
+271
+vote, voter, voté, votes, Vote, votant, vote-, non-vote, vote., revote, votera, votants, votent, scrutin, vote2, vote.Le, e-vote, vote4, voteront, voteLe, 
+---------------------
+Véhicules
+323
+237
+train, wagon, trains, wagons, rails, rail, gare, tram, bus, TGV, métro, tramway, train.Le, train., train-poste, mini-train, tgv, train-, demi-train, ferroviaire, 
+---------------------
+Justice
+324
+1041
+police, policiers, policier, policière, flics, gendarmerie, gendarmes, Police, depolice, police., agents, policières, police.La, police.Il, lapolice, anti-criminalité, commissariat, gendarme, brigade, policers, 
+---------------------
+
+325
+274
+appel, Appel, appels, contre-appel, appel., appel.Le, appelant, .Appel, cri, recours, appeler, appels., Appels, appel-, ppel, rappel, appel.La, appelà, appel.-, lancé, 
+---------------------
+
+326
+5779
+différents, importants, habituels, nombreux, certains, les, diffférents, des, projets, éléments, divers, actuels, services, locaux, développements, faits, significatifs, intéressants, ces, existants, 
+---------------------
+
+327
+27
+inc, inc., Inc, Ltée, ltée, Inc., Ltée., s.e.c., Ltee, s.e.n.c., ELMEC, S.E.N.C., Ltd, Incorporated, enr, INC., S.E.C., J2C, -Québec, SENC, 
+---------------------
+
+328
+38
+cols, col, Cols, chemisiers, sommets, monts, alpins, Limouches, lacs, lacets, raidillons, pantalons, Col, crêtes, passe-montagnes, manteaux, faux-plats, vallées, Massifs, snoods, 
+---------------------
+
+329
+30
+v, iv, .v, 1-v, Pošumaví, .u, vii, v,, .p, yf, b, ix, u, r, ii, Яƒ, f, i, Brně, .g, 
+---------------------
+
+330
+292
+mise, mis, mises, mettant, mettre, met, Mise, mettent, mette, mettait, Mettant, mettons, mettra, mettront, mettrait, remis, mettaient, place, disposition, misesen, 
+---------------------
+
+331
+2
+hc, fb, HC, Hc, ufi, hb, frJe, tw, hns, zc, uuu, bdt, zg, z7, hfa, jmr, gk, iwona46-, wb, qh, 
+---------------------
+
+332
+78
+luc, mathieu, laurent, philippe, michel, nicolas, ghislain, claude, daniel, benoit, christophe, francois, yvan, yanne, xavier, rémy, matthieu, guibert, vincent, phillipe, 
+---------------------
+
+333
+265
+face, Face, devant, faceà, façe, vis-à-vis, face.La, confronté, affronter, confrontée, côté, Devant, derrière, vis, face.Et, affronte, Confronté, confrontés, adversité, face.Le, 
+---------------------
+Justice
+334
+275
+cour, Cour, haute-cour, cour.La, Haute-cour, cour., récréation, courette, laCour, basse-cour, arrière-cour, tribunal, avant-cour, lacour, juridiction, justice, salle, récré, Ferme-Saint-Lazare, Haute-Cour, 
+---------------------
+
+335
+47
+bris, endommagement, endommagements, commotions, casse, dommages, casses, détériorations, défectuosité, brisement, détérioration, accidentel, double-échec, grippage, brisques, dysfonctionnement, défectuosités, coincement, briseurs, brisis, 
+---------------------
+
+336
+6
+mw, mW, mwe, mJ, kw, µw, 1mW, db, yag, gev, otr, beq, tvl, wb, xpr, anw, µV, 5mW, trv, Hz., 
+---------------------
+Famille
+337
+2527
+enfants, parents, jeunes, adolescents, élèves, adultes, écoliers, garçons, gamins, grands-parents, bambins, ados, familles, enfant, filles, enseignants, -enfants, éducateurs, collégiens, gosses, 
+---------------------
+
+338
+403
+fois, fois.Une, dernière, fois., fois.Mais, première, chaque, fois.Et, fois.La, fois.Quand, fois.Après, fois-ci, fois.Alors, semaine, fois.A, fois.Cette, seule, seconde, fois.À, fois.J, 
+---------------------
+
+339
+2
+rd, rg, Gér, e-c, Rôge, Rhéby, Laüs, rn, uje, Buès, Còrrec, Héuré, rx, gws, Dôa, Lène, Aïse, Léès, kd, Léez, 
+---------------------
+
+340
+61
+perd, gagne, perdra, bat, perdent, perde, regagne, perds, reperd, abandonne, récupère, prend, retire, cède, reconquiert, reprend, conquiert, retrouve, perdait, perdu, 
+---------------------
+
+341
+207
+bon, excellent, mauvais, beau, bel, Bon, bon.Un, joli, vrai, bon.Bon, bien.Bon, bien, bien.Un, petit, meilleur, mieux.Un, super, mieux.Bon, tout, bonne, 
+---------------------
+Véhicules
+342
+81
+taxi, bus, taxis, taxi., chauffeur, taxiLe, taxi-bus, autobus, minibus, moto-taxi, mototaxi, mini-bus, chauffeurs, Taxi, microbus, moto-taxis, vélo-taxi, taximan, tuk-tuks, tuk-tuk, 
+---------------------
+Spectacle
+343
+134
+gala, Gala, bal, galas, dîner, banquet, soirée, diner, soirée-bénéfice, concert, spectacle, cérémonie, concert-bénéfice, spectacle-bénéfice, show, souper-bénéfice, anti-gala, souper, cocktail, événement-bénéfice, 
+---------------------
+
+344
+50
+don, dons, donation, legs, donateur, Don, quichotte, donate, don., contre-don, générosité, maussien, CanaDon, mécénat, concoter, donations, sangL', rein., contre-dons, geste, 
+---------------------
+
+345
+60
+vols, vol, Vols, décollages, vols., planés, aéroports, survols, passagers, atterrissages, départs, Govoyages, recels, long-courriers, braquages, volsLes, voyages, kidnappings, court-courriers, convoyages, 
+---------------------
+
+346
+14
+by, By, in, at, Ngwu, of, to, In, BY, admin0, ⓒ, from, and, Wiise, At, Okosis, EICL, Atkoz, @, with, 
+---------------------
+Local
+347
+192
+lévis, Lévis, champlain, chicoutimi, lévisien, St-jean, st-jean, longueuil, granby, saguenay, lanaudiere, beloeil, montréal, laurentides, st-hyacinthe, lévisienne, repentigny, shawinigan, terrebonne, abitibi, 
+---------------------
+Gastronomie
+348
+2047
+fromage, sirop, légumes, citron, viande, mini-carottes, poelée, salade, beurre, crément, poelés, poulet, tomate, lait, confiture, poelées, riz, potiron, miel, crème, 
+---------------------
+Politique
+349
+432
+parti, partis, Parti, parti.Le, socialiste, centriste, parti., ex-parti, parti.Il, parti.La, parti-là, social-démocrate, sans-parti, parti.En, centre-droit, Socialiste, communiste, nationaliste, bourgeois-démocratique, anti-partis, 
+---------------------
+
+350
+260
+plan, plans, Plan, plan.Le, schéma, demi-ensemble, programme, leplan, -plan, plan., projet, planning, duplan, Plans, stratégique, point, volet, pland, unplan, système, 
+---------------------
+
+351
+171
+hôtel, hotel, Hôtel, hôtelUn, hôtel.Le, hôtel.L', hôtel-boutique, motel, hôtel.Un, hôtel., hôtel.Cet, Hotel, appart-hôtel, apparthôtel, 4-étoiles, hôtel-résidence, appart-hotel, établissement, hôtelLe, éco-hôtel, 
+---------------------
+
+352
+902
+tous, les, touts, certains, Tous, toutes, ces, différents, nombreux, deux, tout, nos, TOUS, mêmes, petits, autres, quelques-uns, grands, seuls, ceux, 
+---------------------
+Polluants & Dangers
+353
+83
+brome, bromeux, chlore, bromes, dibrome, chlorate, bromate, bromoforme, chlor, bromoéthane, gallium, Bromus, Chlorate, sulfate, hypobromeux, dichlore, bromé, fluor, rhodizonate, bromique, 
+---------------------
+
+354
+3660
+depuis, durant, pendant, début, années, après, décennies, mois, semaines, fin, avant, jours, jusqu', Depuis, longtemps, lors, ans, jusqu, dès, décennie, 
+---------------------
+Hebdomadaire
+355
+1241
+soir, matin, vendredi, dimanche, samedi, midi, mercredi, jeudi, mardi, lundi, après-midi, hier, matin.Ce, soir.Et, matin.Au, soir.Un, lendemain, soir., soir.Ce, matin.Et, 
+---------------------
+Sport
+356
+680
+hockey, soccer, hockey-balle, hockey., baseball, dekhockey, football, hocke, Hockey, curling, basketball, hockeys, basket-ball, hockeyeur, flag-football, hockeyeurs, hockey-sur-glace, ringuette, rugby, handball, 
+---------------------
+Finance
+357
+1181
+millions, milliards, milliard, million, milllions, dollars, millliards, 000, millons, 6millions, milliars, 5millions, 10millions, milliardsde, miliards, millards, 20millions, 11millions, 15millions, demi-milliard, 
+---------------------
+
+358
+7714
+premier, nouveau, seul, dernier, petit, moment, tout, point, grand, passage, certain, son, titre, sujet, même, tel, second, vrai, temps, final, 
+---------------------
+
+359
+3967
+pouvait, voyait, pensait, allait, voulait, demandait, venait, devait, faisait, arrivait, revenait, passait, trouvait, savait, reconnaissait, semblait, prenait, connaissait, cherchait, souhaitait, 
+---------------------
+
+360
+99
+q, qh, tbn, u, qj, q-, 2q, qy, p, k, q0, i,j, cq, q1, 1q, 4q, qo, oq, yf, -q, 
+---------------------
+
+361
+34
+sang, sang., sangLe, sang.Et, sang.-, sang.Il, sang.En, sang.Le, sangs, sang.Je, sang-, sang.Mais, Sang, sang.L', sangL', sang.La, sangEt, sperme, sangLa, sanguin, 
+---------------------
+
+362
+6
+ips, 120fps, 30fps, IPs, 30ips, ip, 1440p, fps, 50fps, 40fps, 120Hz, 20fps, 144Hz, 100hz, 120hz, IP, 10fps, 900p, 25fps, 60fps, 
+---------------------
+Mode
+363
+275
+style, mode, design, look, chic, rétro, vintage, classique, déco, moderne, demode, style.Le, non-style, minimaliste, néo-vintage, mode.Le, épuré, sport-chic, stylé, minimalisme, 
+---------------------
+
+364
+15
+dg, DG, Dg, dgs, gk, 0i, fj, fg, d.g., md, ql, nhl, gm, cq, aB, rb, yf, bj, j-, ৸, 
+---------------------
+
+365
+1153
+faut, faudrait, faudra, veut, falloir, fallait, suffit, voudrait, dire, Faut, faut-il, doit, pense, suffirait, dois, faudrait-il, vaudrait, peut, faudrai, aimerait, 
+---------------------
+
+366
+6
+ms, 5ms, ms., 6ms, 3ms, 1ms, msec, 2ms, µs, 20ms, 8ms, μs, 15ms, 30ms, trv, 10ms, dc, F-Po, yN, cq, 
+---------------------
+USA
+367
+237
+trump, Trump, TRUMP, D.Trump, trumps, obama, clinton, trumpiste, mélenchon, M.Trump, Trump., erdogan, donald, mccain, trumpienne, trumpisme, Obama., trumpisation, romney, Obama, 
+---------------------
+Incendies
+368
+583
+incendie, incendies, pompiers, flammes, Incendie, incendi, incendie., sapeurs-pompiers, brasier, pompier, anti-incendie, incendie-, lincendie, anti-incendies, sapeur-pompiers, feu, extincteurs, pyromanes, extincteur, inondation, 
+---------------------
+
+369
+30
+go, bye, gooo, Bye, goooo, bye., Go, let', .Bye, go., to, lets, luck, let, byebye, sit', say, .bye, play, fuck, 
+---------------------
+Grèves
+370
+211
+grève, grêve, gréve, grèves, Grève, grévistes, grève., gréviste, greve, grèvistes, grêves, grèviste, débrayages, intersyndicale, gréves, CGT-CFDT, anti-grève, protestation, Grèves, intersyndical, 
+---------------------
+
+371
+55
+sts, qw, beq, mpt, yf, pw, hns, lbr, eD, hme, stc, gss, bck, c32, nst, ssf, qz, mfs, uas, 12r, 
+---------------------
+
+372
+1470
+ccr, tpp, mpt, trv, gss, cng, cnu, ssf, beq, cld, ddo, lbr, iml, cbg, ksk, tlt, gdr, sdv, sdr, mvi, 
+---------------------
+Radio
+373
+156
+radio, radios, Radio, radio., radion, radiophonique, télévision, radio-télé, radio-diffusion, radio-, radiophonie, radio-TV, antenne, webradio, radiovision, web-radio, radiodiffusion, télé, radio.Le, -radio, 
+---------------------
+
+374
+786
+rouge, vert, jaune, bleu, violet, noir, blanc, mauve, rose, orange, marron, bleu.Le, gris, rougeet, rouge-violet, orangé, rouge.Le, pourpre, foncé, verte, 
+---------------------
+
+375
+2982
+michel, philippe, claude, andrée, alain, andré, daniel, eric, paul, rené, didier, henri, laurent, fernand, gerard, simon, gérard, david, erick, gérald, 
+---------------------
+Électricité
+376
+181
+hydro, hydro-, hydrolique, Hydro, hydraulique, hydronique, hydraulique., hydroelectrique, hydro-électrique, hydrau, thermo-, Hydro-, hydro-massage, hydroélectrique, oléo, geothermie, hydrauliques, geothermique, thermie, hydroliques, 
+---------------------
+Hebdomadaire
+377
+3794
+vendredi, jeudi, mardi, mercredi, lundi, samedi, dimanche, soir, matin, Lundi, Dimanche, dimance, mecredi, Samedi, septembre, juin, mars, Vendredi, avril, mai, 
+---------------------
+
+378
+143
+harper, morrison, Harper, springsteen, cameron, crosby, shaw, johnson, burke, manson, pierce, trudeau, barrett, dixon, reese, bradley, crawford, patterson, stanley, baxter, 
+---------------------
+
+379
+53
+jury, Jury, jurys, jury., pré-jury, jurés, lauréat, lauréats, constitutionnaire, comité, JURY, finalistes, examinateurs, Jurys, concours, lauréate, juges, décerné, examinateur, Lauréat, 
+---------------------
+
+380
+273
+qh, yf, trv, zg, ql, qj, cq, qy, xb, aV, y4, 0c, wj, fj, beq, rng, 0i, fq, bck, bsn, 
+---------------------
+
+381
+132
+nuit, nuit.La, nuit., nuit.Mais, nuit.De, nuit.Il, nuitA, nuite, nuit.Une, nuit.A, nuit.Ce, journée, nuit.L, nuit.Et, nuit.On, nuits, nuit-là, nuit.C', nuit.Le, soirée, 
+---------------------
+
+382
+6656
+les, autres, ces, certains, deux, des, plusieurs, nombreux, différents, trois, tous, quelques, derniers, mêmes, ses, innombrables, certaines, quatre, grands, petits, 
+---------------------
+
+383
+101
+avis, Avis, avis.A, avis., avisL', commentaires, avis.Je, avis.Il, avis.Un, apréciation, avis.Et, avisje, avis-, avis.J', avis.Si, avisÀ, avis.Le, avis.L', commentaire, propos, 
+---------------------
+Économie
+384
+1985
+salaire, montant, payer, payé, repaie, impôt, salaires, versement, argent, revenus, rembourser, paye, loyer, remboursement, impôts, côtisations, paie, dépense, paiement, revenu, 
+---------------------
+
+385
+49
+vue, point, imprenable, vue., vue.La, vue.C', perspective, vue.Une, panoramique, vue.Et, vue.Mais, vision, vue.L', vue.Ce, vue.J', vue.Pour, vue.Un, vue.A, panorama, vue.Je, 
+---------------------
+
+386
+60
+feux, Feux, feus, feu, feux., follets, projecteurs, feux-, clignotants, artifices, phares, Feu, fanaux, brasiers, xénons, allumés, anti-brouillards, incendies, antibrouillards, rougeoiements, 
+---------------------
+
+387
+8983
+retrouvé, ramené, voulu, reconnu, demandé, récupéré, présenté, donné, amené, fait, décidé, évoqué, retiré, connu, réclamé, commencé, parlé, remarqué, lâché, retenu, 
+---------------------
+Hockey
+388
+78
+aréna, arénas, patinoire, Aréna, Georges-Vézina, ExpoCité, CEPSUM, patinoires, Jean-Béliveau, Saddledome, dekhockey, estrades, Granby, Paul-Sauvé, granbyen, hockey, Vidéotron, Desjardins-Telus, Ancienne-Lorette, Fernand-Bédard, 
+---------------------
+
+389
+722
+étude, enquête, analyse, investigation, enquète, enquêtes, études, approfondie, pré-enquête, entente, évaluation, Enquête, uneétude, comparative, négociation, enquete, affaire, expérimentation, réflexion, étude1, 
+---------------------
+
+390
+180
+main, mains, main., main.La, main.Et, main.Une, main.De, main.C', mainet, main.Un, main.Le, clé, main.Il, main.Mais, main.Ce, main.Cette, clef, main.Elle, main.Pour, main.L, 
+---------------------
+Cyclisme
+391
+557
+vélo, course, bicyclette, VTT, demi-course, courses, piste, vélos, cyclisme, cyclo-tourisme, velo, cyclo-sportive, moto, vélo.A, randonnée, marathon, cyclo-sportives, vtt, balade, trottinette, 
+---------------------
+Nature
+392
+1357
+rivières, rivière, rives, fleuve, eaux, berges, vallée, riviéres, vallées, lacs, forêt, forêts, fleuves, collines, riviére, mer, lac, étangs, estuaire, lagune, 
+---------------------
+
+393
+2116
+pris, voulu, décidé, donné, demandé, fait, tenté, commencé, amené, réussi, ramené, repris, retrouvé, lâché, récupéré, essayé, proposé, pensé, laissé, choisi, 
+---------------------
+
+394
+15222
+politique, développement, gouvernement, gouvernemental, service, personnel, institution, économique, travail, universitaire, professionnel, organisation, particulier, communautaire, entreprise, nationale, secteur, institutionnel, publique, public, 
+---------------------
+
+395
+19
+âgé, agé, Âgé, Agé, âgée, âgés, adolescent, quinquagénaire, veuf, jeune, vieillard, décédé, septuagénaire, quadragénaire, agée, octogénaire, corpulent, ans, aîné, âge, 
+---------------------
+
+396
+246
+coeur, cœur, cur, cœurde, coeurs, joie, paix, cœur.Et, bonheur, coeurde, cœurs, cœuret, cœur.Mais, Coeur, cœur.La, coeur.Mais, coeur.C', coeur.Le, plein, âme, 
+---------------------
+
+397
+4734
+affirmé, expliqué, précisé, indiqué, évoqué, rappelé, annoncé, déclaré, demandé, souligné, suggéré, insisté, confirmé, rapporté, présenté, révélé, confié, parlé, dénoncé, ajouté, 
+---------------------
+
+398
+1593
+grand, petit, beau, vrai, gros, seul, joli, bon, tout, certain, juste, premier, énorme, peu, nouveau, ptit, important.Un, pareil, plein, même, 
+---------------------
+
+399
+41
+mur, Mur, murs, muret, mur., plafond, parapet, couloir, grillage, rebord, murette, contre-mur, mur.Le, punaisé, muraille, mur.La, paroi, soutenement, punaisée, murs., 
